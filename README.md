@@ -1,8 +1,8 @@
-Netflix-Clone
+## Netflix-Clone
  
 This is the core code from scratch to clone the landing page of Netflix using HTML and CSS.
 
-Screenshots
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/d779e83a-28c6-460c-b440-13d8a62a00f5)
 ![image](https://github.com/user-attachments/assets/4c6eff9e-2eac-45ae-b539-7a6ed939a41e)
